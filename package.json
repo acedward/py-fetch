@@ -1,0 +1,15 @@
+{
+  "name": "py-shinkai",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "node-fetch": "^2.6.1"
+  }
+}
